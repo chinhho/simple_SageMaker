@@ -1,1 +1,1 @@
-# simple_SageMaker
+# Salary - Prediction - using AWS SageMaker
