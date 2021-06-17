@@ -1,8 +1,9 @@
 # Salary - Prediction - using AWS SageMaker
 
 - My goal is to practice AWS Sagemaker service using simple income to predict salary based on years of experience. 
-- Reference : https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/learn/lecture/20039390#overview
 - Student : Chinh Ho
+- Reference : https://www.udemy.com/course/practical-aws-sagemaker-6-real-world-case-studies/learn/lecture/20039390#overview
+
 
 # Applications Used:
 
