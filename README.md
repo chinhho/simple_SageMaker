@@ -8,7 +8,7 @@
 # Applications Used:
 
 - AWS S3
-- AWS Sagemake
+- AWS Sagemaker
 - Boto3
 - Matplotlib
 - Seaborn
